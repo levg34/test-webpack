@@ -1,0 +1,1 @@
+document.getElementById('luc').innerHTML = '<a href="google.fr">Test</a>'
