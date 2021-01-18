@@ -11,7 +11,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       title: 'Test webpack',
-      template: 'src/index.old.html'
+      template: 'view/index.old.html'
     }),
   ],
   module: {
